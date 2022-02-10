@@ -3,7 +3,7 @@ Estamos em construção. No entanto, esse GIT HUB será destinado aos scripts pa
 
 
 Os scripts gerados aqui são escritos em julia
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  style="max-width100%;"/>
 
 <!--
 **ScienceMau/ScienceMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
