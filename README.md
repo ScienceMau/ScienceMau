@@ -12,7 +12,7 @@ Os scripts gerados aqui são escritos em julia
   </a>
   
   <a href="https://www.mathworks.com/products/matlab.html">
-   <img align = "center" alt= "matlab" heigth = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" style="max-width100%;/>
+   <img align = "center" alt= "matlab" heigth = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  style="max-width100%;/>
   </a>
   
 <!--
