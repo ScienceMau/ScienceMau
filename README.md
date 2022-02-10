@@ -11,6 +11,10 @@ Os scripts gerados aqui são escritos em julia
    <img align = "center" alt= "Python" heigth = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width100%;"/>
   </a>
   
+  <a href="https://www.mathworks.com/products/matlab.html">
+   <img align = "center" alt= "matlab" heigth = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" style="max-width100%;/>
+  </a>
+  
 <!--
 **ScienceMau/ScienceMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
