@@ -25,7 +25,16 @@ The scripts generated here are written in julia, python and matlab.
   <a href = "https://www.ubuntu.org">
    <img align = "center" alt= "Ubuntu" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width100%;" />
  
-  ## Connect with me:
+  ## Connect with me: 
+  mau.ap.ribeiro@gmail.com 
+  science.mau@gmail.com
+  
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
+
+  ## My Top languages
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceMau)](https://github.com/ScienceMau/github-readme-stats)
   
   
 <!--
