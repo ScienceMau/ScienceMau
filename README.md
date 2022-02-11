@@ -16,6 +16,13 @@ Os scripts gerados aqui são escritos em julia, python e matlab.
    <img align = "center" alt= "Matlab" heigth = "60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  style="max-width100%;"/>
   </a>
   
+  
+  <a href = "https://www.linux.org">
+   <img align = "center" alt= "Linux" heigth = "60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="max-width100%;"/>
+  </a>
+  <a href = "https://www.ubuntu.org">
+   <img align = "center" alt= "Ubuntu" heigth = "60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width100%;" />
+  
 <!--
 **ScienceMau/ScienceMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
