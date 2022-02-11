@@ -1,5 +1,5 @@
-### Hi there 👋
-Meu nome é Mauricio Ap. Ribeiro 🇧🇷 , minha formação é voltada para área exatas 🖥️. Utilizo programação para efetuar analises numéricas. No entanto, eu sou entusiasta da programação e em constante apredizado.
+# Hi there 👋
+Meu nome é Mauricio Ap. Ribeiro 🇧🇷 , minha formação é voltada para área exatas 🖥️. Utilizo programação para efetuar analises numéricas. No entanto, eu sou entusiasta da programação e em constante apredizado. Nesse repositório irei abranger scripts para que se possa analisar o comportamento dinâmico não linear de sistemas aplicados nas engenharias, física, matemática, química e biologia.
 
 Estamos em construção. No entanto, esse GIT HUB será destinado aos scripts para 
 Os scripts gerados aqui são escritos em julia, python e matlab.
