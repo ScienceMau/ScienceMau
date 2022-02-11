@@ -1,8 +1,8 @@
 # Hi, I'm ScienceMau 👋
-Meu nome é Mauricio Ap. Ribeiro 🇧🇷 , minha formação é voltada para área exatas 🖥️. Utilizo programação para efetuar analises numéricas. No entanto, eu sou entusiasta da programação e em constante apredizado. Nesse repositório irei abranger scripts para que se possa analisar o comportamento dinâmico não linear de sistemas aplicados nas engenharias, física, matemática, química e biologia.
+My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
-Estamos em construção. No entanto, esse GIT HUB será destinado aos scripts para 
-Os scripts gerados aqui são escritos em julia, python e matlab.
+We are under construction. However, this GIT HUB will be for scripts for
+The scripts generated here are written in julia, python and matlab.
   
   <a href="https://julialang.org/">
   <img align = "center" alt= "julia-lang" heigth = "60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  style="max-width100%;"/>
