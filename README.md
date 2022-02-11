@@ -1,6 +1,8 @@
 # Hi, I'm ScienceMau 👋
 My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
+*In the Hobby Hours we try to program retro games in python*
+
 We are under construction. However, this GIT HUB will be for scripts for
 The scripts generated here are written in julia, python and matlab.
   
