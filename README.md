@@ -29,8 +29,7 @@ The scripts generated here are written in julia, python and matlab.
   </a>
  
   <a href = "https://www.latex-project.org/get/">
-   <img align = "center" alt= "Latex" heigth = "50" width="70" src="
-  https://user-images.githubusercontent.com/5700795/49007377-3bac3d00-f163-11e8-8172-cdad5fde4c8c.png" style="max-width100%;" />
+   <img align = "center" alt= "Latex" heigth = "50" width="70" src="https://i.stack.imgur.com/zHFFO.png" style="max-width100%;" />
   </a>
  
  
