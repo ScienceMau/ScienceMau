@@ -28,14 +28,19 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
  [![contact3](https://img.shields.io/badge/GoogleAcademic-Link-blue?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com.br/citations?user=kgj3MfkAAAAJ&hl=pt-BR)
  [![contact4](https://img.shields.io/badge/Researchgate-Link-blue?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mauricio-Ribeiro-7)
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
- 
- ## Projects:
+  
+   ## Projects:
  
 [![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
   
 ## Social Networks:  
   
 [![social1](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&logoColor=black&?logoWidth=40)](https://www.instagram.com/invites/contact/?i=as4hochvm1h9&utm_content=h1theyd)
+
+  
+  
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
+ 
 
   
