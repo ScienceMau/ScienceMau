@@ -8,14 +8,12 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Ubuntu-Skill-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![skill1](https://img.shields.io/badge/Linux-Skill-blue?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org/)
   [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
-  
-## Connect with me: 
+  ## Connect with me: 
   
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
-  
-  
- ## My academic description:
+   
+## My academic description:
   
   I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics.
   
@@ -26,21 +24,3 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
   
-  
-  
-  
-  
-<!--
-**ScienceMau/ScienceMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on Dynamics Systems with Fractional Calculus and Conventional derivative Operator.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
