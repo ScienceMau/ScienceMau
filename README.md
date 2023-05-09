@@ -3,10 +3,8 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 
   
  # My Skills 
+  [![skill1](https://img.shields.io/badge/Julia-Skill-red)](https://julialang.org/)
   
-  <a href="https://julialang.org/">
-  <img align = "center" alt= "julia-lang" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  style="max-width100%;"/>
-  </a>
   
   <a href="https://www.python.org/">
    <img align = "center" alt= "Python" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width100%;"/>
