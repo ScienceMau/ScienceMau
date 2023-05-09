@@ -16,7 +16,9 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   
   ## My academic description:
   
-  I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics. <a href = "https://orcid.org/0000-0001-7314-0723"> ORCID</a>
+  I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics.
+  
+  [![contact](https://img.shields.io/badge/Orcid-Skill-white?style=for-the-badge&logo=Orcid&logoColor=white)](https://orcid.org/0000-0001-7314-0723)
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
