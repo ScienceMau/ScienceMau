@@ -3,6 +3,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 
   
  # My Skills 
+ 
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
   [![skill1](https://img.shields.io/badge/Ubuntu-Skill-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -10,6 +11,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
   
   ## Connect with me: 
+  
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
   
