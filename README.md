@@ -38,7 +38,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   
   ## Publications:
   
-   [![skill1](https://img.shields.io/badge/Publications-LIST-red?style=for-the-badge&logoWidth=60&logo=bookmyshow&logoColor=white)]()
+   [![skill1](https://img.shields.io/badge/Publications-LIST-red?style=for-the-badge&logoWidth=60&logo=bookmyshow&logoColor=white)](/docs/asset/html/ref3.html)
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
