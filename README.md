@@ -4,7 +4,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 <img src="/docs/assets/images/Lyap_2.png"  width="11.2%" height="5%"><img src="/docs/assets/images/fig2.png"  width="10.2%" height="5%"><img src="/docs/assets/images/fig3.png"  width="10%" height="5%"><img src="/docs/assets/images/fig4.png"  width="13.3%" height="20%">
 
  
-## My Skills 
+  ## My Skills 
  
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-blue?style=flat-square&logo=python&logoColor=white)](https://python.org/)
