@@ -2,7 +2,7 @@
 My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
   
- # My Skills 
+ ## My Skills 
  
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
