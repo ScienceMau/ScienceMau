@@ -8,6 +8,10 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Ubuntu-Skill-blue?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![skill1](https://img.shields.io/badge/Linux-Skill-blue?style=flat-square&logo=linux&logoColor=white)](https://linux.org/)
   [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
+  
+  ## Social network:
+  
+  
   ## Connect with me: 
 
   mau.ap.ribeiro@gmail.com or
