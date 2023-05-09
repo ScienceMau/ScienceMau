@@ -15,9 +15,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
  
- ## Publications:
  
-  
  ## My academic description:
   
   
@@ -38,6 +36,9 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 [![social1](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&logoColor=black&?logoWidth=40)](https://www.instagram.com/invites/contact/?i=as4hochvm1h9&utm_content=h1theyd)
 
   
+  ## Publications:
+  
+   [![skill1](https://img.shields.io/badge/Publications-LIST-red?style=for-the-badge&logoWidth=60&logo=bookmyshow&logoColor=white)]()
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
