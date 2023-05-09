@@ -9,29 +9,6 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Linux-Skill-white?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org/)
   [![skill1](https://img.shields.io/badge/Latex-Skill-white?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
   
-  <a href="https://www.python.org/">
-   <img align = "center" alt= "Python" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width100%;"/>
-  </a>
-  
-  <a href="https://www.mathworks.com/products/matlab.html">
-   <img align = "center" alt= "Matlab" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  style="max-width100%;"/>
-  </a>
-  
-  
-  <a href = "https://www.linux.org">
-   <img align = "center" alt= "Linux" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="max-width100%;"/>
-  </a>
-  <a href = "https://www.ubuntu.org">
-   <img align = "center" alt= "Ubuntu" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="max-width100%;" />
-  </a>
- 
-  <a href = "https://www.latex-project.org/get/">
-   <img align = "center" alt= "Latex" heigth = "50" width="70" src="https://i.stack.imgur.com/zHFFO.png" style="max-width100%;" />
-  </a>
- 
- 
-  
- 
   ## Connect with me: 
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
