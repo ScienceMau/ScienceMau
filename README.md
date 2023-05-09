@@ -1,8 +1,7 @@
 # ScienceMau
 My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
-  
- ## My Skills 
+## My Skills 
  
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
@@ -10,13 +9,13 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Linux-Skill-blue?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org/)
   [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
   
-  ## Connect with me: 
+## Connect with me: 
   
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
   
   
-  ## My academic description:
+ ## My academic description:
   
   I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics.
   
