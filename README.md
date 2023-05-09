@@ -14,7 +14,9 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
-  
+ 
+ ## Publications:
+ 
   
  ## My academic description:
   
