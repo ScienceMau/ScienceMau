@@ -1,10 +1,7 @@
 # ScienceMau
 My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
-<img src="/docs/assets/images/Lyap_2.png"  width="11.2%" height="5%"><img src="/docs/assets/images/fig2.png"  width="10.2%" height="5%"><img src="/docs/assets/images/fig3.png"  width="10%" height="5%"><img src="/docs/assets/images/fig4.png"  width="13.3%" height="20%">
-
- 
-  ## My Skills 
+## My Skills 
  
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-blue?style=flat-square&logo=python&logoColor=white)](https://python.org/)
@@ -13,13 +10,13 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
  
  
- ## Connect with me: 
+## Connect with me: 
 
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
   
   
-  ## My academic description:
+ ## My academic description:
   
   
   I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics.
@@ -33,12 +30,10 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
  
  ## Projects:
  
- 
-  [![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
+[![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
   
-  # Social Networks:
+## Social Networks:  
   
-  
-  [![social1](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&logoColor=black&?logoWidth=40)](https://www.instagram.com/invites/contact/?i=as4hochvm1h9&utm_content=h1theyd)
+[![social1](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&logoColor=black&?logoWidth=40)](https://www.instagram.com/invites/contact/?i=as4hochvm1h9&utm_content=h1theyd)
 
   
