@@ -5,7 +5,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
  # My Skills 
   [![skill1](https://img.shields.io/badge/Julia-Skill-white?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
   [![skill1](https://img.shields.io/badge/Python-Skill-white?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-  [![skill1](https://img.shields.io/badge/Ubuntu-Skill-white?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.org/)
+  [![skill1](https://img.shields.io/badge/Ubuntu-Skill-white?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![skill1](https://img.shields.io/badge/Linux-Skill-white?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org/)
   [![skill1](https://img.shields.io/badge/Latex-Skill-white?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
   
