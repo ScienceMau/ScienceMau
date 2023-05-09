@@ -12,8 +12,7 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
   
   mau.ap.ribeiro@gmail.com or
   science.mau@gmail.com
-   
-## My academic description:
+  ## My academic description:
   
   I'm degree in Mathematics from the State University of Ponta Grossa (2007), a master's degree in Applied Chemistry from the State University of Ponta Grossa (2010) and a PhD in Sciences from the State University of Ponta Grossa (2016). He has experience in Mathematical Physics, Complex Systems, Dynamical Systems, Fractional Calculus, computational physics and molecular dynamics.
   
