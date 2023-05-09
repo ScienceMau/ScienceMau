@@ -24,5 +24,5 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
  
  ## Projects:
- [![project](https://img.shields.io/badge/OliviaProject-Skill-blue?style=for-the-badge&logo=latex&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
+ [![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
   
