@@ -1,6 +1,7 @@
 # ScienceMau
 My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
 
+<img src="/docs/assets/images/lyapunov_5.png"  width="6%" height="3%">
 ## My Skills 
  
   [![skill1](https://img.shields.io/badge/Julia-Skill-blue?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
