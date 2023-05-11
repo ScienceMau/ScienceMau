@@ -29,6 +29,8 @@ I'm degree in Mathematics from the State University of Ponta Grossa (2007), a ma
 ## Projects
  
 [![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
+
+[![project](https://img.shields.io/badge/Anna-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Anna-Project/)
   
 ## Social Networks
   
