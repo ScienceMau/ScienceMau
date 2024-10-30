@@ -10,10 +10,6 @@ My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on e
 [![skill1](https://img.shields.io/badge/Linux-Skill-blue?style=flat-square&logo=linux&logoColor=white)](https://linux.org/)
 [![skill1](https://img.shields.io/badge/Latex-Skill-blue?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/get/)
  
-
-## Connect with me 
-
-mau.ap.ribeiro@gmail.com or science.mau@gmail.com
   
 ## My academic description
   
