@@ -34,3 +34,7 @@ I'm degree in Mathematics from the State University of Ponta Grossa (2007), a ma
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScienceMau&show_icons=true&theme=radical)
+
+
+![Snake animation](https://github.com/ScienceMau/ScienceMau/blob/output/github-contribution-grid-snake.svg)
+
